@@ -115,11 +115,11 @@ use_editable(expires = 1)
 ```
 
 
-# .white[Vorlesung]
+# .white[Vorlesung:]
 
-.em14[<i class="fas fa-microscope fa-5x"></i>]
+.em14[<i class="fas fa-chart-bar fa-5x"></i>]
 
-### .white[Einführung in qualitative und quantitative Forschungsmethoden]
+### .white[Statistik]
 
 <img style="vertical-align:middle" src="https://imagizer.imageshack.com/img922/8876/bipedm.png", width="70px">
 
